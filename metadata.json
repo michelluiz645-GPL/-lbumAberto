@@ -1,0 +1,6 @@
+{
+  "name": "ÁlbumAberto",
+  "description": "Plataforma moderna de compra, venda e negociação de figurinhas colecionáveis em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
